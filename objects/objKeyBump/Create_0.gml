@@ -1,0 +1,1 @@
+// add this as a key on a cell direction to handle fake walls
