@@ -1,3 +1,3 @@
 tileSize = 64;
-unpassableWalls = [objDoor, objWall]
+unpassableWalls = [objWall]
 unpassableInsides = [objChest, objRubble]
