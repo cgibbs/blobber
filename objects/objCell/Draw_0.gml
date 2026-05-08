@@ -84,8 +84,5 @@ if (self.inside != noone) {
 	gpu_set_colourwriteenable(1, 1, 1, 1);	
 }
 
-
-
-
 surface_reset_target();
 draw_surface(surf, x - sprite_xoffset, y - sprite_yoffset);

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"appendToLog",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"appendToLog",
+  "parent":{
+    "name":"blobber",
+    "path":"blobber.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
