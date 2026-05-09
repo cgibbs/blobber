@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"objCell",
+  "%Name":"objWallNorth",
   "eventList":[],
   "managed":true,
-  "name":"objCell",
+  "name":"objWallNorth",
   "overriddenProperties":[],
   "parent":{
     "name":"objects",
@@ -23,14 +23,19 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v2","%Name":"onBump","filters":[],"listItems":[],"multiselect":false,"name":"onBump","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":5,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprStoneFloor",
-    "path":"sprites/sprStoneFloor/sprStoneFloor.yy",
+    "name":"sprWallNorth",
+    "path":"sprites/sprWallNorth/sprWallNorth.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"Sprite5",
+    "path":"sprites/Sprite5/Sprite5.yy",
+  },
   "visible":true,
 }

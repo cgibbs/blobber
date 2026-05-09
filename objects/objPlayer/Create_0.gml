@@ -1,3 +1,3 @@
-tileSize = 64;
-unpassableWalls = [objWall]
-unpassableInsides = [objChest, objRubble]
+#macro tileSize 64
+
+unpassableObjects = [objChest, objRubble]
