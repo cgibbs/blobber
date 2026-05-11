@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"writeToGui",
   "parent":{
-    "name":"blobber",
-    "path":"blobber.yyp",
+    "name":"scripts",
+    "path":"folders/scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",
