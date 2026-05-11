@@ -1,7 +1,7 @@
 {
   "$GMRoom":"v1",
   "%Name":"RoomCombat",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/RoomCombat/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
@@ -12,6 +12,7 @@
     {"name":"inst_5905E62E","path":"rooms/RoomCombat/RoomCombat.yy",},
     {"name":"inst_3CD6BC20","path":"rooms/RoomCombat/RoomCombat.yy",},
     {"name":"inst_4B9F205B","path":"rooms/RoomCombat/RoomCombat.yy",},
+    {"name":"inst_77953368","path":"rooms/RoomCombat/RoomCombat.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -24,10 +25,11 @@
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"objButton","path":"objects/objButton/objButton.yy",},"propertyId":{"name":"button","path":"objects/objButton/objButton.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"buttons.escape",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":96.0,"y":672.0,},
         {"$GMRInstance":"v4","%Name":"inst_5905E62E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5905E62E","objectId":{"name":"objButton","path":"objects/objButton/objButton.yy",},"properties":[
-            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"objButton","path":"objects/objButton/objButton.yy",},"propertyId":{"name":"button","path":"objects/objButton/objButton.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"buttons.restart",},
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"objButton","path":"objects/objButton/objButton.yy",},"propertyId":{"name":"button","path":"objects/objButton/objButton.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"buttons.item",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":256.0,"y":672.0,},
         {"$GMRInstance":"v4","%Name":"inst_3CD6BC20","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3CD6BC20","objectId":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":448.0,},
         {"$GMRInstance":"v4","%Name":"inst_4B9F205B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4B9F205B","objectId":{"name":"objBattle","path":"objects/objBattle/objBattle.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":224.0,"y":640.0,},
+        {"$GMRInstance":"v4","%Name":"inst_77953368","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_77953368","objectId":{"name":"objItemMenu","path":"objects/objItemMenu/objItemMenu.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":416.0,"y":352.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":true,"x":0,"y":0,},
   ],

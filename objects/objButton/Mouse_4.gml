@@ -11,9 +11,10 @@ switch (button) {
         // code here
 		show_debug_message("escaping");
         break;
-    case buttons.restart:
+    case buttons.item:
         // code here
-		show_debug_message("restarting");
+		show_debug_message("item menu");
+		global.itemMenuActive = true;
         break;
     default:
         // code here

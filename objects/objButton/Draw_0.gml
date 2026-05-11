@@ -13,9 +13,9 @@ switch (button) {
         // code here
 		text = "Escape";
         break;
-    case buttons.restart:
+    case buttons.item:
         // code here
-		text = "Restart";
+		text = "Item";
         break;
     default:
         // code here

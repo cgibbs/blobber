@@ -2,7 +2,7 @@ enum buttons {
 	attack,
 	heal,
 	escape,
-	restart
+	item
 }
 
 text = "";

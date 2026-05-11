@@ -1,4 +1,4 @@
-function writeToGui(text_x, text_y, text, color, isWithBackground=false){
+function writeToGui(text_x, text_y, text, color, isWithBackground=false, hAlign=fa_center){
 	var guiw = display_get_gui_width();
 	var guih = display_get_gui_height();
 

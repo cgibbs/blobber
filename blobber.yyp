@@ -56,6 +56,7 @@
     {"id":{"name":"objDoorNorth","path":"objects/objDoorNorth/objDoorNorth.yy",},},
     {"id":{"name":"objDoorSouth","path":"objects/objDoorSouth/objDoorSouth.yy",},},
     {"id":{"name":"objDoorWest","path":"objects/objDoorWest/objDoorWest.yy",},},
+    {"id":{"name":"objItemMenu","path":"objects/objItemMenu/objItemMenu.yy",},},
     {"id":{"name":"objKeyBump","path":"objects/objKeyBump/objKeyBump.yy",},},
     {"id":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},},
     {"id":{"name":"objPoisonTrap","path":"objects/objPoisonTrap/objPoisonTrap.yy",},},
